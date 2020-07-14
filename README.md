@@ -25,5 +25,5 @@ let rec nat_mult a b = match (a,b) with
 ```
 
 ## Inspiration
-I would like to thank Michael Delmonaco for his help in teaching me OCaml and giving me inspiration for this project. 
+I would like to thank Michael Delmonaco for his help in teaching me OCaml and giving me the inspiration for this project. 
 <https://quasarbright.github.io>
